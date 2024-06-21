@@ -1,3 +1,11 @@
+# Setting
+
+```
+- cuda 11.8
+- numpy 1.22.1
+-
+```
+
 # GraspNet graspness
 My implementation of paper "Graspness Discovery in Clutters for Fast and Accurate Grasp Detection" (ICCV 2021).
 
